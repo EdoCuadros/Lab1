@@ -46,6 +46,8 @@ Se montan los archivos al robot y se procede con la calibración de la herramien
 ![Diagrama de flujo](https://github.com/EdoCuadros/Lab1/blob/main/Flujo.png)
 
 ## Plano de planta de la ubicación de cada uno de los elementos.
+![Diagrama de planta - superior](https://github.com/EdoCuadros/Lab1/blob/main/planta1.png)
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/planta2.png)
 ## Descripción de las funciones utilizadas.
 ## Diseño de la herramienta.
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
