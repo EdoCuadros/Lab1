@@ -43,7 +43,7 @@ Se montan los archivos al robot y se procede con la calibración de la herramien
 
 ## Diagrama de flujo de acciones del robot
 
-!(/Flujo.png)
+!(./Flujo.png)
 
 ## Plano de planta de la ubicación de cada uno de los elementos.
 ## Descripción de las funciones utilizadas.
