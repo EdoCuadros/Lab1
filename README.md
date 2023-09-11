@@ -27,6 +27,19 @@ horizontal o sobre una plano inclinado.
 - Los nombres deben estar separados.
 
 ## Descripción de la solución planteada.
+Se trabaja sobre una torta de forma de paralelepípedo, cuyas dimensiones son 20 cm x 20 cm x 15 cm. 
+
+Se diseñó un efector o herramienta final para el manipulador de tal forma que pueda ser posicionado sobre el manipulador y que contenga el marcador con el que se escribirá sobre una hoja en blanco que simulará la superficie de la torta.
+
+Se diseña una caja en Inventor sobre la que se colocan los nombres EDUAR y OSCAR, ambos en alto relieve. Esta caja se importa al RobotStudio y se pueden trazar una secuencia de puntos sobre las letras en alto relieve.
+
+Con RobotStudio importamos y configuramos la herramienta previamente diseñada en Inventor. 
+
+Se crean tres path. Dos para los nombres y otro para la decoración. Se validan las indicaciones de uso de las instrucciones MoveL y MoveJ, así como el de las velocidades y el zoom. 
+
+Posteriormente se sincroniza con Rapid. 
+
+Se montan los archivos al robot y se procede con la calibración de la herramienta, la selección del workobject y el posterior trazado sobre el papel.
 
 ## Diagrama de flujo de acciones del robot
 ## Plano de planta de la ubicación de cada uno de los elementos.
