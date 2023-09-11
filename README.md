@@ -42,6 +42,9 @@ Posteriormente se sincroniza con Rapid.
 Se montan los archivos al robot y se procede con la calibración de la herramienta, la selección del workobject y el posterior trazado sobre el papel.
 
 ## Diagrama de flujo de acciones del robot
+
+!Flujo.png
+
 ## Plano de planta de la ubicación de cada uno de los elementos.
 ## Descripción de las funciones utilizadas.
 ## Diseño de la herramienta.
