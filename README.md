@@ -49,6 +49,14 @@ Se montan los archivos al robot y se procede con la calibración de la herramien
 ![Diagrama de planta - superior](https://github.com/EdoCuadros/Lab1/blob/main/planta1.png)
 ![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/planta2.png)
 ## Descripción de las funciones utilizadas.
+Para la generación de las trayectorias es emplearon las funciones:
+- MoveL. Traza una línea entre dos puntos. 
+- MoveJ. Traza una línea entre dos puntos pero el software selecciona la trayectoria más conveniente
+- v100. Velocidad de la herramienta.
+- zfine, z10. Zona tolerable de errores.
+La selección del objeto de trabajo (caja) fue a través del workobject (WO) identificado con tres puntos. Sobre este WO se ubicaron los diferentes puntos que son parte de las trayectorias para los nombres y para la decoración
+
+
 ## Diseño de la herramienta.
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
