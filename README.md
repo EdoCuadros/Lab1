@@ -76,7 +76,7 @@ Vista 3D de la herramienta completa
 
 Plano de diseño de la herramienta
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
-
+```
 MODULE Module1
     CONST robtarget inicio:=[[459.502218959,16.972449376,378.090243512],[0.475497026,-0.537456769,0.511913548,-0.472215331],[0,-1,-2,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_10:=[[135.812,131.693,0],[0.475497026,-0.537456769,0.511913548,-0.472215331],[0,-1,-1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
@@ -150,7 +150,7 @@ MODULE Module1
     CONST robtarget Target_690:=[[-219.784825253,-399.484433617,300],[0.471243517,-0.532844792,0.516712383,-0.476460164],[-1,0,-2,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     PERS tooldata MyBridaToolTCP:=[TRUE,[[0,56.281,147.2],[0.855815998,0.517280366,0,0]],[0.3,[0,0,1],[1,0,0,0],0,0,0]];
     TASK PERS wobjdata WO_caja:=[FALSE,TRUE,"",[[0,0,0],[1,0,0,0]],[[471.941,-114.434,100],[1,0,0,0]]];
-!***********************************************************
+    !***********************************************************
     !
     ! M?dulo:  Module1
     !
@@ -258,4 +258,5 @@ MODULE Module1
         MoveJ inicio,v100,fine,MyBridaToolTCP\WObj:=wobj0;
     ENDPROC
 ENDMODULE
+```
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
