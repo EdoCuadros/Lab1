@@ -258,3 +258,4 @@ ENDMODULE
 ```
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
 ![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/RobotStudio.mp4)
+[![Watch the video]](https://youtu.be/KJF1iqGxGCY )
