@@ -260,5 +260,5 @@ ENDMODULE
 
 [![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/pnRobotStudio.png)](https://youtu.be/KJF1iqGxGCY)
 
-https://youtube.com/shorts/3xaN8OFENsE
-[![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/pnRobotStudio.png)](https://youtu.be/KJF1iqGxGCY)
+
+[![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/RobotYoutube.png)](https://youtube.com/shorts/3xaN8OFENsE)
