@@ -63,7 +63,7 @@ La herramienta se encuentra dividida en 3 partes.
 
 Base. Parte que une la herramienta al robot
 
-![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/base3.png)
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/Base3.png)
 
 Plano de diseño de la base
 
