@@ -152,14 +152,14 @@ MODULE Module1
     TASK PERS wobjdata WO_caja:=[FALSE,TRUE,"",[[0,0,0],[1,0,0,0]],[[471.941,-114.434,100],[1,0,0,0]]];
     !***********************************************************
     !
-    ! M?dulo:  Module1
+    ! Módulo:  Module1
     !
-    ! Descripci�n:
-    !   <Introduzca la descripci�n aqu�>
+    ! Descripción:
+    !   <Introduzca la descripción aquí>
     !
     ! Autor: Juandrosa
     !
-    ! Versi�n: 1.0
+    ! Versión: 1.0
     !
     !***********************************************************
     
@@ -212,9 +212,6 @@ MODULE Module1
         MoveJ Target_310,v100,fine,MyBridaToolTCP\WObj:=WO_caja;
         MoveJ Target_320,v100,fine,MyBridaToolTCP\WObj:=WO_caja;
         MoveJ inicio,v100,fine,MyBridaToolTCP\WObj:=wobj0;
-    ENDPROC
-    PROC Path_10()
-
     ENDPROC
     PROC Oscar()
         MoveJ inicio,v100,fine,MyBridaToolTCP\WObj:=wobj0;
