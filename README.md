@@ -257,8 +257,9 @@ MODULE Module1
 ENDMODULE
 ```
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
+### Video de RobotStudio
 
 [![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/pnRobotStudio.png)](https://youtu.be/KJF1iqGxGCY)
 
-
+### Video del manipulador
 [![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/RobotYoutube.png)](https://youtube.com/shorts/3xaN8OFENsE)
