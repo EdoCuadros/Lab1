@@ -59,6 +59,7 @@ La selección del objeto de trabajo (caja) fue a través del workobject (WO) ide
 
 ## Diseño de la herramienta.
 La herramienta se encuentra dividida en 3 partes. 
+
 ![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/base1.png)
 
 Base. Parte que une la herramienta al robot
