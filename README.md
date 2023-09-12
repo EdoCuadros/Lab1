@@ -259,3 +259,6 @@ ENDMODULE
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
 
 [![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/pnRobotStudio.png)](https://youtu.be/KJF1iqGxGCY)
+
+https://youtube.com/shorts/3xaN8OFENsE
+[![Mirar el video](https://github.com/EdoCuadros/Lab1/blob/main/pnRobotStudio.png)](https://youtu.be/KJF1iqGxGCY)
