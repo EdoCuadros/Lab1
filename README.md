@@ -58,5 +58,21 @@ La selección del objeto de trabajo (caja) fue a través del workobject (WO) ide
 
 
 ## Diseño de la herramienta.
+La herramienta se encuentra dividida en 3 partes. 
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/base1.png)
+
+Base. Parte que une la herramienta al robot
+
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/base3.png)
+
+Plano de diseño de la base
+
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/herramienta1.png)
+
+Vista 3D de la herramienta completa
+
+![Diagrama de planta - lateral](https://github.com/EdoCuadros/Lab1/blob/main/herramienta2.png)
+
+Plano de diseño de la herramienta
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 ## Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots reales.
